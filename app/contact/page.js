@@ -9,9 +9,9 @@ import { Textarea } from "@/components/ui/textarea";
 import { toast } from "sonner";
 
 const contactInfo = [
-  { icon: Mail, label: "Email Us", value: "hello@apexstudio.com", desc: "We reply within 24 hours" },
-  { icon: Phone, label: "Call Us", value: "+1 (555) 123-4567", desc: "Mon-Fri, 9am-6pm EST" },
-  { icon: MapPin, label: "Visit Us", value: "123 Creative Ave, New York, NY 10001", desc: "By appointment only" },
+  { icon: Mail, label: "Email Us", value: "trexmate@gmail.com", desc: "We reply within 24 hours" },
+  { icon: Phone, label: "Call Us", value: "+92 3151065019", desc: "Mon-Fri, 9am-6pm EST" },
+  { icon: MapPin, label: "Visit Us", value: "Karachi pakistan", desc: "By appointment only" },
   { icon: Timer, label: "Working Hours", value: "Monday - Friday", desc: "9:00 AM - 6:00 PM EST" },
 ];
 
@@ -137,7 +137,7 @@ export default function ContactPage() {
               <div className="flex-1 rounded-xl border border-border bg-card flex items-center justify-center min-h-[200px]">
                 <div className="text-center p-6">
                   <MapPin className="mx-auto h-8 w-8 text-primary/30" />
-                  <p className="mt-3 font-heading text-sm font-semibold text-foreground">New York, NY</p>
+                  <p className="mt-3 font-heading text-sm font-semibold text-foreground">Karachi Pakistan</p>
                   <p className="mt-1 text-xs text-muted-foreground">123 Creative Ave, Suite 400</p>
                 </div>
               </div>

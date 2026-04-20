@@ -6,7 +6,7 @@ import { useGsapReveal } from "@/hooks/useGsapReveal";
 const featured = {
   category: "Announcement",
   date: "April 12, 2026",
-  title: "Trexmate Opens New Studio in Singapore",
+  title: "Trexmate Opens New Studio in Nazimabad",
   desc: "Expanding our footprint in Asia-Pacific to better serve a growing roster of regional clients across fintech, retail and hospitality.",
   read: "5 min read",
 };

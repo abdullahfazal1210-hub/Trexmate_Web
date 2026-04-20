@@ -40,9 +40,9 @@ const Footer = () => (
             Contact
           </h4>
           <div className="mt-4 space-y-2 text-sm text-muted-foreground">
-            <p>hello@apexstudio.com</p>
-            <p>+1 (555) 123-4567</p>
-            <p>New York, NY</p>
+            <p>trexmate@gmail.com</p>
+            <p>+92 3151065019</p>
+            <p>Karachi</p>
           </div>
         </div>
       </div>

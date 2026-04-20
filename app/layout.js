@@ -2,8 +2,11 @@ import "./globals.css";
 import Providers from "@/components/Providers";
 
 export const metadata = {
-  title: "Trexmate - Award-Winning Digital Agency",
+  title: "Trexmate",
   description: "Transforming ideas into stunning, high-performance digital products that make an impact.",
+  icons: {
+    icon: "/trexmatewhite.png", // "/public" hata dein
+  },
 };
 
 export default function RootLayout({ children }) {
